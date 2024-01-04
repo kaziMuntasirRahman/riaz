@@ -1,0 +1,53 @@
+body{
+	
+	background-image: url("pexels-luiisrtz-1699204.jpg");
+	background-image: url("carousel4.jpg");
+}
+
+marquee{
+	width:40%;
+	margin:5px;
+	font-family:comic sans ms;
+	font-style: italic;
+	height:auto;
+}
+
+.bristi{
+	margin-top:5px;
+	margin-bottom:5px;
+	margin-right:5px;
+	margin-left:5px;
+}
+
+a{
+	display:inline;
+}
+
+font:hover{
+	color:rgb(48, 3, 3);
+	background-color:cyan;
+	transition: background-color 4s;
+
+
+
+
+iframe:hover{
+	background-color:cyan;
+	padding:10px;
+	transition:background-color 0.4s, padding 1s;
+}
+	
+video:hover{
+	padding:10px;
+	background-color:MediumAquaMarine;
+	transition:background-color 0.8s, padding 0.8s;
+}	
+
+table{
+	color:white;
+}
+
+
+	
+	
+	
